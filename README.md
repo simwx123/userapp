@@ -1,6 +1,6 @@
 # Users list app
 
-An app for listing current Team users using React.
+An app for listing current team users using React and Typescrip.
 
 ## Getting started
 
