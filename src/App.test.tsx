@@ -10,7 +10,7 @@ let wrapper:any
 configure({adapter: new Adapter()});
 
 describe('User page', () => {
-  const expectedPayload = { type: 'GET_USERS' }
+	const expectedPayload = { type: 'GET_USERS' }
 	const usersaction = () => expectedPayload
 
 	it('Users store actions', () => {
@@ -26,14 +26,14 @@ describe('User page', () => {
 			</Provider>
 		)
 		expect(wrapper).toBeDefined()
-  })
+	})
   
-  it('Searchbar components', () => {
+	it('Searchbar components', () => {
 		expect(wrapper.find(SearchBar).length).toEqual(1)
 	})
 
-  it('should contain two rows', () => {
-    expect(wrapper.find(<table/>)).toBeDefined();
-    expect(wrapper.find('tbody').find('tr').length).toEqual(2)
-  });
+	it('should contain two rows', () => {
+		expect(wrapper.find(<table/>)).toBeDefined();
+		expect(wrapper.find('tbody').find('tr').length).toEqual(2)
+	});
 })
