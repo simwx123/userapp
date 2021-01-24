@@ -15,7 +15,7 @@ Then, inside the project's folder, install it's dependencies.
 With Yarn:
 
 ```bash
-yarn
+yarn install
 ```
 
 or npm:
