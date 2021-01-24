@@ -1,4 +1,4 @@
-# Users list App
+# Users list app
 
 An app for listing current Team users using React.
 
@@ -44,7 +44,6 @@ Deploy App with `npm run build`.
 - [React Redux](https://react-redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Enzyme](https://www.npmjs.com/package/enzyme)
-- [wojtekmaj/enzyme-adapter-react-17](https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17)
 
 
 ## About Me
