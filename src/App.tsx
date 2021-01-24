@@ -83,10 +83,10 @@ const App: React.FC = () => {
 					<td>{name}</td>
 					<td>{username}</td>
 					<td><a href={"mailto:" + email}>{email}</a></td>
-					<td>{JSON.stringify(address, null, '\t')}</td>
+					<td><pre>{JSON.stringify(address, null, '\t')}</pre></td>
 					<td><a href={"tel:" + phone}>{phone}</a></td>
 					<td>{website}</td>
-					<td>{JSON.stringify(company, null, '\t')}</td>
+					<td><pre>{JSON.stringify(company, null, '\t')}</pre></td>
 				</tr>
 			)
 		})
