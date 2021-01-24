@@ -23,3 +23,5 @@ yarn-error.log*
 
 # screenshot
 .eslintcache
+
+/src/react-app-env.d.ts
