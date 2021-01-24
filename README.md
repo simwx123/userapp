@@ -34,8 +34,10 @@ npm install
 
 ## Running
 
-Now you can run the App with `npm run start`.
-Run the App test case with `npm run test`.
+Now you can run the App with `npm run start`.\
+Run the App test case with `npm run test`.\
+Execute eslint  `npm run lint`.\
+Execute eslint auto fix `npm run lint:fix`.\
 Deploy App with `npm run build`.
 
 
@@ -44,6 +46,7 @@ Deploy App with `npm run build`.
 - [React Redux](https://react-redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Enzyme](https://www.npmjs.com/package/enzyme)
+- [Eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
 
 
 ## About Me
