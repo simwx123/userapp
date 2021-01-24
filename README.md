@@ -1,4 +1,4 @@
-# Users list App
+# Users list app
 
 An app for listing current Team users using React.
 
