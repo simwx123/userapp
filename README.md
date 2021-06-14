@@ -49,11 +49,3 @@ Deploy App with `npm run build`.
 - [Eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
 
 
-## About Me
-
-**Sim Wei Xiong**
-
-- [GitHub](https://github.com/simwx123)
-- [LinkedIn](https://www.linkedin.com/in/sim-wei-xiong-281876124/)
-- Email: simweixiong@gmail.com
-- Mobile: +65 91632610
